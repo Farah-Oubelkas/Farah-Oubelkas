@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Farah-Oubelkas
+- 👋 Hi, I’m Farah OUBELKAS
 - 👀 I’m interested in Data Science
 - 🌱 I’m currently a Data Scientist 
 - 💞️ I’m looking to collaborate on any Machine learning projects

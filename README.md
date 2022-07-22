@@ -47,7 +47,6 @@ Here are some ideas to get you started:
 <h3 align="left">Technologies I am familiar with:</h3>
 <p align="center">
 		<img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original-wordmark.svg" height="80" width="80" />
-		<img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-original.svg" alt="devicon" height="50" width="50" />
 		<img align="center" src="https://github.com/devicons/devicon/blob/master/icons/tensorflow/tensorflow-original.svg" alt="devicon" height="50" width="50" />
 		<img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="devicon" height="50" width="50" />
 		<img align="center" src="https://github.com/devicons/devicon/blob/master/icons/pytorch/pytorch-original.svg" alt="devicon" height="50" width="50" />

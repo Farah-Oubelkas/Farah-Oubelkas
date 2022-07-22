@@ -36,7 +36,7 @@ Here are some ideas to get you started:
 </p>
 -->
 <p align="center">
-	<a href="mailto:farah.@gmail.com" target="_blank">
+	<a href="mailto:farah.oubelkas@gmail.com" target="_blank">
 		<img align="center" src="https://github.com/ma-shamshiri/ma-shamshiri/blob/main/images/contacts/email.svg" alt="email" height="40" width="40" />
 	</a>
 	<a href="https://www.linkedin.com/in/farah-oubelkas/" target="_blank"">

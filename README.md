@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 
 - `whoami` Data scientist in the field of digital banking at <a href="https://adria-bt.com/en/"> ADRIA Business Technology </a>
 
-- `pwd` Casablanca, Morocco
+- `pwd` Morocco
 
 - `ps -a` Learning ML and DL concepts as well as Computer Vision Techniques
 

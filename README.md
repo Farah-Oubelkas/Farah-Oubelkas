@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 
 <!---<p align="center"> <img src="https://komarev.com/ghpvc/?username=yigitcolakoglu&label=Profile%20views&color=0e75b6&style=flat" alt="yigitcolakoglu" /> </p>--->
 
-- `whoami` Data scientist in the field of digital banking at <a href="https://adria-bt.com/en/"> ADRIA Business Technology </a>
+- `whoami` Data scientist
 
 - `pwd` Morocco
 
